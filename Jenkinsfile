@@ -1,6 +1,6 @@
 node {
     
-stage('Git Clone Maha Login project') {
+stage('Git Clone MahaLogin project') {
     git 'https://github.com/nikhil370/mahalogin.git'
 }
 
